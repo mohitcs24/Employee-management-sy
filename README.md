@@ -12,10 +12,17 @@ Developed a fully functional Employee Management System using React and Vite for
 
 You can tweak or modify it further depending on the specific features and your involvement.
 
+![Screenshot 2025-02-02 132404](https://github.com/user-attachments/assets/96bd08ea-a0ff-4e4a-8693-b4343c2379aa)
+
+
 
 ![Screenshot 2025-02-02 132333](https://github.com/user-attachments/assets/8b0aa296-fc1d-47c8-b148-04188c59a1ce)
 
 
+![Screenshot 2025-02-02 192921](https://github.com/user-attachments/assets/9b5f1747-3617-4d97-a8cb-c491f8d46463)
 
-![Screenshot 2025-02-02 132404](https://github.com/user-attachments/assets/96bd08ea-a0ff-4e4a-8693-b4343c2379aa)
+
+
+
+
 
